@@ -1,11 +1,14 @@
-### Hello (World)!
+### Hello (World) :smile:!
 
+I’m currently working on creating a suite of classroom economic experiments developed in [oTree](https://www.otree.org/) and analyzed in [RMarkdown](https://rmarkdown.rstudio.com/).
 
-I’m currently working on creating a suite of classroom experiments developed in [oTree](https://www.otree.org/) and [RMarkdown](https://rmarkdown.rstudio.com/)
-
-Visit my webpage for more details on my research activity
+Visit my webpage for more details on my research activity.
 
 [http://matteoploner.eco.unitn.it/](http://matteoploner.eco.unitn.it/)
+
+I also enjoy graphical representations of quantitative data :bar_chart:.
+
+[http://ploner.eco.unitn.it:3838/](http://ploner.eco.unitn.it:3838/)
 
 <!--
 **ploteo/ploteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
